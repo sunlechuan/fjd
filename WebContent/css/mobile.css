@@ -1,0 +1,28 @@
+.mcls{
+	
+}
+.mcls div{
+	float: left;
+}
+.mcls ul {
+  list-style: none;	
+}
+.mcls ul li{
+	float: left;
+	padding-left:50px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+.p1{
+	margin-left: 100px;
+}
+.p1 div{
+	float:left;
+	width: 240px;
+	height: 400px;
+	border: 0px solid red;
+}
